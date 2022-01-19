@@ -1,4 +1,4 @@
-<span id="top" style="text-align:center;">
+<p align="center" id="top" style="text-align:center;">
 
 [![](https://img.shields.io/github/issues/s1031432/dbfinal)](#)
 [![](https://img.shields.io/github/forks/s1031432/dbfinal)](#)
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/license/s1031432/dbfinal)](#)
 [![](https://img.shields.io/badge/Node.js-v12.16.2-brightgreen)](#)
 
-</span>
+</p>
 
 
 
@@ -65,7 +65,7 @@ NCCU DBMS 2021 Final Project
 * MAMP<br>
     Download MAMP and set database...
 
-### Run Server
+### Run API Server
 ```sh
     node server.js
 ```
