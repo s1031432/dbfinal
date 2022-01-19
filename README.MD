@@ -1,11 +1,9 @@
 <span id="top" style="text-align:center; margin:0 auto;">
-
-[![](https://img.shields.io/github/issues/s1031432/dbfinal)](#)
-[![](https://img.shields.io/github/forks/s1031432/dbfinal)](#)
-[![](https://img.shields.io/github/stars/s1031432/dbfinal)](#)
-[![](https://img.shields.io/github/license/s1031432/dbfinal)](#)
-[![](https://img.shields.io/badge/Node.js-v12.16.2-brightgreen)](#)
-
+    <img src="https://img.shields.io/github/issues/s1031432/dbfinal">
+    <img src="https://img.shields.io/github/forks/s1031432/dbfinal">
+    <img src="https://img.shields.io/github/stars/s1031432/dbfinal">
+    <img src="https://img.shields.io/github/license/s1031432/dbfinal">
+    <img src="https://img.shields.io/badge/Node.js-v12.16.2-brightgreen">
 </span>
 
 
@@ -89,6 +87,6 @@ NCCU DBMS 2021 Final Project
 <!-- CONTACT -->
 ## Contact
 
-黃翊唐 - [Facebook]](https://fb.com/ty80517) - 108753132@nccu.edu.tw
+黃翊唐 - [Facebook](https://fb.com/ty80517) - 108753132@nccu.edu.tw
 
 Project Link: [https://github.com/s1031432/dbfinal](https://github.com/s1031432/dbfinal)
