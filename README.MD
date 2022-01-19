@@ -1,10 +1,10 @@
-<span id="top" style="text-align:center; margin:0 auto;">
+<div id="top" style="text-align:center; margin:0 auto;">
     <img src="https://img.shields.io/github/issues/s1031432/dbfinal">
     <img src="https://img.shields.io/github/forks/s1031432/dbfinal">
     <img src="https://img.shields.io/github/stars/s1031432/dbfinal">
     <img src="https://img.shields.io/github/license/s1031432/dbfinal">
     <img src="https://img.shields.io/badge/Node.js-v12.16.2-brightgreen">
-</span>
+</div>
 
 
 
